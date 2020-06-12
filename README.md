@@ -1,35 +1,25 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/gustavo_pierre) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](author-gustavopierre.png)](https://www.linkedin.com/in/gustavo_pierre) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](hhttps://github.com/gustavopierre/data_science_portfolio/issues)
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
 # Gustavo Pierre
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Developer, Data Scientist and Military*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+As a developer, data scientist in training and retired marine, I combine hard and soft skills from 32 years of military life and the various courses I took.
+My credentials include a master's degree in Computer Graphics at the Pontifical Catholic University of Rio de Janeiro, an institution of higher education and advanced research ranked as one of the best and most prestigious private universities in Brazil.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Programming, Python and Data Science.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/gustavo_pierre
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/gustavo_pierre)
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+## Projects:
 
+* **[Análise dos Dados do Airbnb Relativos à Dublin, Irlanda](https://github.com/gustavopierre/data_science_portfolio/blob/master/Analise_Dados_Airbnb_em_Dublin_Irlanda.ipynb)**
 ---
 
 
