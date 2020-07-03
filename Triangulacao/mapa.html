@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_e6e4b2fb0f724efe8ef8c8507eb7fc3a {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_e6e4b2fb0f724efe8ef8c8507eb7fc3a" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_e6e4b2fb0f724efe8ef8c8507eb7fc3a = L.map(
+        'map_e6e4b2fb0f724efe8ef8c8507eb7fc3a', {
+        center: [-20.068318071930936, -44.027440759461435],
+        zoom: 15,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_510e11faf88a427196f330fea23a57c6 = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_e6e4b2fb0f724efe8ef8c8507eb7fc3a);
+    
+        var marker_7306fed0c85144e39269ebd31bba6e70 = L.marker(
+            [-20.058720922101248, -44.01038904298729],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_e6e4b2fb0f724efe8ef8c8507eb7fc3a);
+        
+    
+
+                var icon_1deb956f951e45fda9e1677b777c171a = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_7306fed0c85144e39269ebd31bba6e70.setIcon(icon_1deb956f951e45fda9e1677b777c171a);
+            
+    
+            var popup_ded25ee036cb4bcd8ddc38ea12dc0c64 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_8053ade26a8b45f9b27ef754b383325a = $(`<div id="html_8053ade26a8b45f9b27ef754b383325a" style="width: 100.0%; height: 100.0%;"><center>Ponto Ferruginoso</center><br><center>-20.06--44.01</center></div>`)[0];
+                popup_ded25ee036cb4bcd8ddc38ea12dc0c64.setContent(html_8053ade26a8b45f9b27ef754b383325a);
+            
+
+            marker_7306fed0c85144e39269ebd31bba6e70.bindPopup(popup_ded25ee036cb4bcd8ddc38ea12dc0c64)
+            ;
+
+            
+        
+    
+        var marker_670ad3443803450398e38dd63a00ddcc = L.marker(
+            [-20.062523867550127, -44.03801028449023],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_e6e4b2fb0f724efe8ef8c8507eb7fc3a);
+        
+    
+
+                var icon_1bc2ac088fcf4671a592c0059bf7a639 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_670ad3443803450398e38dd63a00ddcc.setIcon(icon_1bc2ac088fcf4671a592c0059bf7a639);
+            
+    
+            var popup_3275d1857abb4b5cb5d4182bc0960979 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_adfe776a6d0740ac9e506392597f15a5 = $(`<div id="html_adfe776a6d0740ac9e506392597f15a5" style="width: 100.0%; height: 100.0%;"><center>Posto 39</center><br><center>-20.06--44.04</center></div>`)[0];
+                popup_3275d1857abb4b5cb5d4182bc0960979.setContent(html_adfe776a6d0740ac9e506392597f15a5);
+            
+
+            marker_670ad3443803450398e38dd63a00ddcc.bindPopup(popup_3275d1857abb4b5cb5d4182bc0960979)
+            ;
+
+            
+        
+    
+        var marker_8403f3b377db447a8119601f0576d002 = L.marker(
+            [-20.083709426141436, -44.03392295090681],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_e6e4b2fb0f724efe8ef8c8507eb7fc3a);
+        
+    
+
+                var icon_144cecd1fbc64797bed6e50383ff54af = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_8403f3b377db447a8119601f0576d002.setIcon(icon_144cecd1fbc64797bed6e50383ff54af);
+            
+    
+            var popup_2787768ef5ca488fa0c6d68899b41ec4 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_16ad347444324e4397abc6f493464549 = $(`<div id="html_16ad347444324e4397abc6f493464549" style="width: 100.0%; height: 100.0%;"><center>Interseção</center><br><center>-20.08--44.03</center></div>`)[0];
+                popup_2787768ef5ca488fa0c6d68899b41ec4.setContent(html_16ad347444324e4397abc6f493464549);
+            
+
+            marker_8403f3b377db447a8119601f0576d002.bindPopup(popup_2787768ef5ca488fa0c6d68899b41ec4)
+            ;
+
+            
+        
+    
+                var poly_line_2bc97258af5a45a18916902e00e26011 = L.polyline(
+                    [[-20.058720922101248, -44.01038904298729], [-20.062523867550127, -44.03801028449023]],
+                    {
+  "bubblingMouseEvents": true,
+  "color": "blue",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "blue",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "noClip": false,
+  "opacity": 1,
+  "smoothFactor": 1.0,
+  "stroke": true,
+  "weight": 2.5
+}
+                    )
+                    .addTo(map_e6e4b2fb0f724efe8ef8c8507eb7fc3a);
+            
+    
+                var poly_line_3d98a9e445b3405289852bba94d3dc69 = L.polyline(
+                    [[-20.058720922101248, -44.01038904298729], [-20.083709426141436, -44.03392295090681]],
+                    {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "green",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "noClip": false,
+  "opacity": 1,
+  "smoothFactor": 1.0,
+  "stroke": true,
+  "weight": 2.5
+}
+                    )
+                    .addTo(map_e6e4b2fb0f724efe8ef8c8507eb7fc3a);
+            
+    
+                var poly_line_f27c9085b0864b2c864de30207d12bbb = L.polyline(
+                    [[-20.062523867550127, -44.03801028449023], [-20.083709426141436, -44.03392295090681]],
+                    {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "green",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "noClip": false,
+  "opacity": 1,
+  "smoothFactor": 1.0,
+  "stroke": true,
+  "weight": 2.5
+}
+                    )
+                    .addTo(map_e6e4b2fb0f724efe8ef8c8507eb7fc3a);
+            
+</script>
