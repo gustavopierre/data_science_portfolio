@@ -1,4 +1,4 @@
-[![author](author-gustavopierre.png)](https://www.linkedin.com/in/gustavo_pierre) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](hhttps://github.com/gustavopierre/data_science_portfolio/issues)
+[![author](author-gustavopierre.png)](https://www.linkedin.com/in/gustavo_pierre) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](hhttps://github.com/gustavopierre/data_science_portfolio/issues)
 
 <p align="center">
   <img src="banner.png" >
@@ -7,8 +7,11 @@
 # Gustavo Pierre
 <sub>*Developer, Data Scientist and Military*</sub>
 
+-----
+
+
 As a developer, data scientist in training and retired marine, I combine hard and soft skills from 32 years of military life and the various courses I took.
-My credentials include a master's degree in Computer Graphics at the Pontifical Catholic University of Rio de Janeiro, an institution of higher education and advanced research ranked as one of the best and most prestigious private universities in Brazil.
+My credentials include a Master's Degree in Computer Graphics at the Pontifical Catholic University of Rio de Janeiro, an institution of higher education and advanced research ranked as one of the best and most prestigious private universities in Brazil.
 
 **Background in:** Programming, Python and Data Science.
 
