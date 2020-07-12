@@ -23,7 +23,7 @@ My credentials include a Master's Degree in Computer Graphics at the Pontifical 
 ## Projects:
 
 * **[Análise dos Dados do Airbnb Relativos à Dublin, Irlanda](https://github.com/gustavopierre/data_science_portfolio/blob/master/Analise_Dados_Airbnb_em_Dublin_Irlanda.ipynb)**
-* **[Um Passo a Passo para Análise de Crimes na Irlanda](https://github.com/gustavopierre/data_science_portfolio/blob/master/Analise_Dados_Airbnb_em_Dublin_Irlanda.ipynb)**
+* **[Um Passo a Passo para Análise de Crimes na Irlanda](https://github.com/gustavopierre/data_science_portfolio/blob/master/Um_Passo_a_Passo_Para_Analise_Crimes_na_Irlanda.ipynb)**
 ---
 
 
